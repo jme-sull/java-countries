@@ -29,6 +29,8 @@ Some Important Notes That Might help:
 
 Using the data.sql at the end, the endpoints will produce the following outputs. Expand to see the suggested outputs! Note that id numbers may vary.
 
+
+small change 
 ### MVP
 
 <details><summary>http://localhost:2019/names/all</summary>
